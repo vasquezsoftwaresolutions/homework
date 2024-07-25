@@ -16,4 +16,4 @@ Lista de tecnologías pre-requisitos mínimos para que el proyecto funcione loca
 
 
 #### README UPDATE
-* ***Juan Pablo Váquez*** - *08-06-2024*
+* ***vasquezsoftwaresolutions*** - *25-07-2024*
